@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038069927689",
+    "project_id": "fluttertry-6944a",
+    "storage_bucket": "fluttertry-6944a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038069927689:android:e342ff6e34c7ea017dcdd8",
+        "android_client_info": {
+          "package_name": "com.example.firebasetryflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7TWRDLeh8zYZ9DuQ6LruXc7eiv40wfco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
